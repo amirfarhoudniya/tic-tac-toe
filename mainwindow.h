@@ -12,6 +12,7 @@ class MainWindow : public QMainWindow
     Q_OBJECT
 
 public :
+
     /*the status od each place .. 0 : not played ,
     1: 'X' player played , 2 : 'O' player played */
     int place_1;
